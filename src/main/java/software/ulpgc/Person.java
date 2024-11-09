@@ -18,4 +18,13 @@ public class Person {
     public LocalDate getBirthday() {
         return birthday;
     }
+
+    public int getAge() {
+        return toYears(LocalDate.now().toEpochDay() - birthday.toEpochDay());
+    }
+
+    private int toYears(long days) {
+        return (int) (days/365);
+    }
+
 }
