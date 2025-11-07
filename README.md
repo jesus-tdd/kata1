@@ -15,5 +15,5 @@ Primera *kata* de Ingeniería del Software 2 del Grado Ingeniería Informática 
 Implementación básica de una clase *Person*.
 
 ## 
-[Ver vídeo](https://www.youtube.com/watch?v=EPjIFFPmQTw)
+[Ver vídeo](https://www.youtube.com/watch?v=EPjIFFPmQTw)  |  [Todas las Katas](https://www.youtube.com/playlist?list=PL_MLZ_QLgMQ8v5oYzwturBAajvCAg-p8c)
 
