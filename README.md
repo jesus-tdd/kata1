@@ -12,7 +12,7 @@ Primera *kata* de Ingeniería del Software 2 del Grado Ingeniería Informática 
 > 6. Asegurarse de que cada commit tenga mensajes descriptivos y significativos para rastrear el progreso del proyecto.
 
 ### Código
-Implementación básica de una clase Person.
+Implementación básica de una clase *Person*.
 
 ## 
 [Ver vídeo](https://www.youtube.com/watch?v=EPjIFFPmQTw)
